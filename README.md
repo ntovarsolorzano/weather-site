@@ -7,7 +7,11 @@ $ cd weather-site
 $ firebase emulators:start
 ```
 
-## Visual
+## VScode Extensions
+I add some useful VSCode extensions.
+Please install the extensions.
+
+## Visual Design
 [https://www.figma.com/design/KIjm71tz4uwfdmrppJukHB/Weather-Site?node-id=0-1&t=oXYnXeTGoQE8NAO8-1](https://www.figma.com/design/KIjm71tz4uwfdmrppJukHB/Weather-Site?node-id=0-1&t=oXYnXeTGoQE8NAO8-1)
 
 ## Weather Icons
@@ -20,4 +24,4 @@ You can use icons in `public/icons/weather`.
 4. merge
 
 ### Example
-If Tomo try the [Create current weather visual](https://github.com/cctb-weather/weather-site/), you will create the branch with `tomo/#2`.
+If Tomo try the [Create current weather visual](https://github.com/cctb-weather/weather-site/issues/2), he will create the branch with `tomo/#2`.
