@@ -1,0 +1,6 @@
+.today-forecast-box {
+  width: 640px;
+  max-width: 640px;
+  height: 160px;
+  background-color: gainsboro;
+}
